@@ -1,6 +1,6 @@
 fileA
 fileB
 fileC
-
+merge 
 
 made a changes in feautre1
